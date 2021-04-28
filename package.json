@@ -1,0 +1,26 @@
+{
+  "name": "messenger-webhook",
+  "version": "1.0.0",
+  "description": "NDP Systemes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "carabistouille-lib": "^1.4.1",
+    "childprocess": "^2.0.2",
+    "express": "^4.13.4",
+    "give-me-a-joke": "^0.1.2",
+    "insult": "0.0.3",
+    "insults": "^0.1.3",
+    "leo-profanity": "^1.3.0",
+    "one-liner-joke": "^1.2.0",
+    "request": "^2.88.0"
+  },
+  "engines": {
+    "node": "~4.1.2"
+  }
+}
